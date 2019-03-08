@@ -1,0 +1,13 @@
+{
+  "name": "bus_tracker_v1.1",
+  "version": "1.0.1",
+  "description": "bus tracker backend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index",
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naveen Kumar Battula",
+  "license": "ISC"
+}
