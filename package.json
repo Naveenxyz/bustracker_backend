@@ -9,5 +9,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Naveen Kumar Battula",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "moment": "^2.24.0",
+    "mongoose": "^5.4.19",
+    "mongoose-timestamp": "^0.6.0",
+    "nodemon": "^1.18.10",
+    "socket.io": "^2.2.0"
+  }
 }
